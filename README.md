@@ -1,4 +1,3 @@
-````markdown
 # Golang Practice Codes 🐹
 
 This repository contains my **Golang practice programs**, written in a **simple and easy-to-understand way**.  
@@ -41,7 +40,6 @@ Some of the topics included in this repository:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-````
 
 2. Go to the project directory:
 
@@ -52,9 +50,7 @@ Some of the topics included in this repository:
 
    ```bash
    go run filename.go
-   ```
 
----
 
 ## 👨‍💻 Who This Is For
 
