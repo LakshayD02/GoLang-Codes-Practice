@@ -1,3 +1,4 @@
+````markdown
 # Golang Practice Codes 🐹
 
 This repository contains my **Golang practice programs**, written in a **simple and easy-to-understand way**.  
